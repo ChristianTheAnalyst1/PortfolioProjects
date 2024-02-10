@@ -14,7 +14,7 @@ This includes proficiency in tools such as SQL, Tableau, Power BI, Python, data 
 **Projects Section**
 
 This section includes detailed documentation and code for various business intelligence projects I've worked on. 
-This section also has PDF copies of a few dashboards created for clients ( all sensitive information has been removed as well as any information that would I identify the company 
+This section also has PDF copies of a few dashboards created for clients ( all sensitive information has been removed as well as any information that would identify the company )
 
 **Education and Certifications**
 

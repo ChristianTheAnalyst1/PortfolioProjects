@@ -21,9 +21,7 @@ This section also has PDF copies of a few dashboards created for clients ( all s
 BS in Financial manament 
 
 Completed several certifications including:
-Google Data Analysis certification 
-Lean Six Sigma Green Belt 
-Power BI for Professionals 
+Google Data Analysis certification, Lean Six Sigma Green Belt, And Power BI for Professionals 
 
 **Why Me?**
 

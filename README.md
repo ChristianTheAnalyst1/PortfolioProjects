@@ -18,7 +18,7 @@ This section also has PDF copies of a few dashboards created for clients ( all s
 
 **Education and Certifications**
 
-BS in Financail manament 
+BS in Financial manament 
 
 Completed several certifications including:
 Google Data Analysis certification 
